@@ -1,0 +1,13 @@
+body
+{
+	font-family: Calibri, Verdana, Arial;
+}
+.done
+{
+	color: red;
+}
+li
+{
+	margin-top: 10px;
+	cursor: pointer;
+}
